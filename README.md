@@ -186,11 +186,6 @@ This is an academic project. Contributions, suggestions, and improvements are we
 
 This project is licensed under the ISC License.
 
----
-
-## 🧑‍💻 Author
-
-Developed by **[Nikunj Mehta](https://github.com/Nikunj-Mehta)** 🚀
 
 ---
 
