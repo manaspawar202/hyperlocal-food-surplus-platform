@@ -190,7 +190,7 @@ This project is licensed under the ISC License.
 
 ## 🧑‍💻 Author
 
-Developed by **[Nikunj Mehta](https://github.com/Nikunj-Mehta)** 🚀
+Developed by Nikunj Mehta, Manas Pawar, Anurag Mali
 
 ---
 
